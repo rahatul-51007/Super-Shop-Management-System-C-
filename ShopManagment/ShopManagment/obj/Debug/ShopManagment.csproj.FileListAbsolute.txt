@@ -1,0 +1,168 @@
+D:\c#\ShopManagment\ShopManagment\bin\Debug\ShopManagment.exe.config
+D:\c#\ShopManagment\ShopManagment\bin\Debug\ShopManagment.exe
+D:\c#\ShopManagment\ShopManagment\bin\Debug\ShopManagment.pdb
+D:\c#\ShopManagment\ShopManagment\obj\Debug\ShopManagment.csproj.AssemblyReference.cache
+D:\c#\ShopManagment\ShopManagment\obj\Debug\ShopManagment.Properties.Resources.resources
+D:\c#\ShopManagment\ShopManagment\obj\Debug\ShopManagment.csproj.GenerateResource.cache
+D:\c#\ShopManagment\ShopManagment\obj\Debug\ShopManagment.csproj.CoreCompileInputs.cache
+D:\c#\ShopManagment\ShopManagment\obj\Debug\ShopManagment.exe
+D:\c#\ShopManagment\ShopManagment\obj\Debug\ShopManagment.pdb
+D:\c#\ShopManagment\ShopManagment\obj\Debug\ShopManagment.Form1.resources
+D:\c#\ShopManagment\ShopManagment\obj\Debug\ShopManagment.AdminDashboard.resources
+D:\c#\ShopManagment\ShopManagment\obj\Debug\ShopManagment.ProductManagment.resources
+D:\c#\ShopManagment\ShopManagment\obj\Debug\ShopManagment.SalesReport.resources
+D:\Version\ShopManagment\ShopManagment\obj\Debug\ShopManagment.csproj.AssemblyReference.cache
+D:\Version\ShopManagment\ShopManagment\obj\Debug\ShopManagment.AdminDashboard.resources
+D:\Version\ShopManagment\ShopManagment\obj\Debug\ShopManagment.FormEmployeeManagement.resources
+D:\Version\ShopManagment\ShopManagment\obj\Debug\ShopManagment.FormPaymentProcess.resources
+D:\Version\ShopManagment\ShopManagment\obj\Debug\ShopManagment.FormProductCart.resources
+D:\Version\ShopManagment\ShopManagment\obj\Debug\ShopManagment.ProductManagment.resources
+D:\Version\ShopManagment\ShopManagment\obj\Debug\ShopManagment.Properties.Resources.resources
+D:\Version\ShopManagment\ShopManagment\obj\Debug\ShopManagment.SalesReport.resources
+D:\Version\ShopManagment\ShopManagment\obj\Debug\ShopManagment.csproj.GenerateResource.cache
+D:\Version\ShopManagment\ShopManagment\obj\Debug\ShopManagment.csproj.CoreCompileInputs.cache
+D:\Version\ShopManagment\ShopManagment\obj\Debug\ShopManagment.exe
+D:\Version\ShopManagment\ShopManagment\obj\Debug\ShopManagment.pdb
+D:\Version\ShopManagment\ShopManagment\bin\Debug\ShopManagment.exe.config
+D:\Version\ShopManagment\ShopManagment\bin\Debug\ShopManagment.exe
+D:\Version\ShopManagment\ShopManagment\bin\Debug\ShopManagment.pdb
+D:\Version\ShopManagment\ShopManagment\obj\Debug\ShopManagment.FormEmployeeDashboard.resources
+D:\Version\ShopManagment\ShopManagment\obj\Debug\ShopManagment.FormEmployeeInformation.resources
+D:\Version\ShopManagment\ShopManagment\obj\Debug\ShopManagment.FormLogin.resources
+C:\Users\Labib\Downloads\ShopManagment\ShopManagment\ShopManagment\bin\Debug\ShopManagment.exe.config
+C:\Users\Labib\Downloads\ShopManagment\ShopManagment\ShopManagment\bin\Debug\ShopManagment.exe
+C:\Users\Labib\Downloads\ShopManagment\ShopManagment\ShopManagment\bin\Debug\ShopManagment.pdb
+C:\Users\Labib\Downloads\ShopManagment\ShopManagment\ShopManagment\obj\Debug\ShopManagment.csproj.AssemblyReference.cache
+C:\Users\Labib\Downloads\ShopManagment\ShopManagment\ShopManagment\obj\Debug\ShopManagment.FormEmployeeDashboard.resources
+C:\Users\Labib\Downloads\ShopManagment\ShopManagment\ShopManagment\obj\Debug\ShopManagment.FormEmployeeInformation.resources
+C:\Users\Labib\Downloads\ShopManagment\ShopManagment\ShopManagment\obj\Debug\ShopManagment.FormLogin.resources
+C:\Users\Labib\Downloads\ShopManagment\ShopManagment\ShopManagment\obj\Debug\ShopManagment.FormPaymentProcess.resources
+C:\Users\Labib\Downloads\ShopManagment\ShopManagment\ShopManagment\obj\Debug\ShopManagment.FormProductCart.resources
+C:\Users\Labib\Downloads\ShopManagment\ShopManagment\ShopManagment\obj\Debug\ShopManagment.Properties.Resources.resources
+C:\Users\Labib\Downloads\ShopManagment\ShopManagment\ShopManagment\obj\Debug\ShopManagment.csproj.GenerateResource.cache
+C:\Users\Labib\Downloads\ShopManagment\ShopManagment\ShopManagment\obj\Debug\ShopManagment.csproj.CoreCompileInputs.cache
+C:\Users\Labib\Downloads\ShopManagment\ShopManagment\ShopManagment\obj\Debug\ShopManagment.exe
+C:\Users\Labib\Downloads\ShopManagment\ShopManagment\ShopManagment\obj\Debug\ShopManagment.pdb
+D:\Version\Labib\ShopManagment\ShopManagment\ShopManagment\bin\Debug\ShopManagment.exe.config
+D:\Version\Labib\ShopManagment\ShopManagment\ShopManagment\bin\Debug\ShopManagment.exe
+D:\Version\Labib\ShopManagment\ShopManagment\ShopManagment\bin\Debug\ShopManagment.pdb
+D:\Version\Labib\ShopManagment\ShopManagment\ShopManagment\obj\Debug\ShopManagment.csproj.AssemblyReference.cache
+D:\Version\Labib\ShopManagment\ShopManagment\ShopManagment\obj\Debug\ShopManagment.FormEmployeeDashboard.resources
+D:\Version\Labib\ShopManagment\ShopManagment\ShopManagment\obj\Debug\ShopManagment.FormEmployeeInformation.resources
+D:\Version\Labib\ShopManagment\ShopManagment\ShopManagment\obj\Debug\ShopManagment.FormLogin.resources
+D:\Version\Labib\ShopManagment\ShopManagment\ShopManagment\obj\Debug\ShopManagment.FormPaymentProcess.resources
+D:\Version\Labib\ShopManagment\ShopManagment\ShopManagment\obj\Debug\ShopManagment.FormProductCart.resources
+D:\Version\Labib\ShopManagment\ShopManagment\ShopManagment\obj\Debug\ShopManagment.Properties.Resources.resources
+D:\Version\Labib\ShopManagment\ShopManagment\ShopManagment\obj\Debug\ShopManagment.csproj.GenerateResource.cache
+D:\Version\Labib\ShopManagment\ShopManagment\ShopManagment\obj\Debug\ShopManagment.csproj.CoreCompileInputs.cache
+D:\Version\Labib\ShopManagment\ShopManagment\ShopManagment\obj\Debug\ShopManagment.exe
+D:\Version\Labib\ShopManagment\ShopManagment\ShopManagment\obj\Debug\ShopManagment.pdb
+D:\Version\Labib\ShopManagment\ShopManagment\ShopManagment\obj\Debug\ShopManagment.FormProductManagment.resources
+D:\Version\Labib\ShopManagment\ShopManagment\ShopManagment\obj\Debug\ShopManagment.FormAdminDashboard.resources
+D:\Version\Labib\ShopManagment\ShopManagment\ShopManagment\obj\Debug\ShopManagment.FormSalesReport.resources
+C:\Users\Labib\Downloads\ShopManagment\ShopManagment\ShopManagment\ShopManagment\bin\Debug\ShopManagment.exe.config
+C:\Users\Labib\Downloads\ShopManagment\ShopManagment\ShopManagment\ShopManagment\bin\Debug\ShopManagment.exe
+C:\Users\Labib\Downloads\ShopManagment\ShopManagment\ShopManagment\ShopManagment\bin\Debug\ShopManagment.pdb
+C:\Users\Labib\Downloads\ShopManagment\ShopManagment\ShopManagment\ShopManagment\obj\Debug\ShopManagment.csproj.AssemblyReference.cache
+C:\Users\Labib\Downloads\ShopManagment\ShopManagment\ShopManagment\ShopManagment\obj\Debug\ShopManagment.FormAdminDashboard.resources
+C:\Users\Labib\Downloads\ShopManagment\ShopManagment\ShopManagment\ShopManagment\obj\Debug\ShopManagment.FormEmployeeDashboard.resources
+C:\Users\Labib\Downloads\ShopManagment\ShopManagment\ShopManagment\ShopManagment\obj\Debug\ShopManagment.FormEmployeeInformation.resources
+C:\Users\Labib\Downloads\ShopManagment\ShopManagment\ShopManagment\ShopManagment\obj\Debug\ShopManagment.FormLogin.resources
+C:\Users\Labib\Downloads\ShopManagment\ShopManagment\ShopManagment\ShopManagment\obj\Debug\ShopManagment.FormPaymentProcess.resources
+C:\Users\Labib\Downloads\ShopManagment\ShopManagment\ShopManagment\ShopManagment\obj\Debug\ShopManagment.FormProductCart.resources
+C:\Users\Labib\Downloads\ShopManagment\ShopManagment\ShopManagment\ShopManagment\obj\Debug\ShopManagment.FormProductManagment.resources
+C:\Users\Labib\Downloads\ShopManagment\ShopManagment\ShopManagment\ShopManagment\obj\Debug\ShopManagment.Properties.Resources.resources
+C:\Users\Labib\Downloads\ShopManagment\ShopManagment\ShopManagment\ShopManagment\obj\Debug\ShopManagment.FormSalesReport.resources
+C:\Users\Labib\Downloads\ShopManagment\ShopManagment\ShopManagment\ShopManagment\obj\Debug\ShopManagment.csproj.GenerateResource.cache
+C:\Users\Labib\Downloads\ShopManagment\ShopManagment\ShopManagment\ShopManagment\obj\Debug\ShopManagment.csproj.CoreCompileInputs.cache
+C:\Users\Labib\Downloads\ShopManagment\ShopManagment\ShopManagment\ShopManagment\obj\Debug\ShopManagment.exe
+C:\Users\Labib\Downloads\ShopManagment\ShopManagment\ShopManagment\ShopManagment\obj\Debug\ShopManagment.pdb
+D:\Version\Labib\ShopManagment\ShopManagment\ShopManagment\ShopManagment\bin\Debug\ShopManagment.exe.config
+D:\Version\Labib\ShopManagment\ShopManagment\ShopManagment\ShopManagment\bin\Debug\ShopManagment.exe
+D:\Version\Labib\ShopManagment\ShopManagment\ShopManagment\ShopManagment\bin\Debug\ShopManagment.pdb
+D:\Version\Labib\ShopManagment\ShopManagment\ShopManagment\ShopManagment\obj\Debug\ShopManagment.csproj.AssemblyReference.cache
+D:\Version\Labib\ShopManagment\ShopManagment\ShopManagment\ShopManagment\obj\Debug\ShopManagment.FormAdminDashboard.resources
+D:\Version\Labib\ShopManagment\ShopManagment\ShopManagment\ShopManagment\obj\Debug\ShopManagment.FormEmployeeDashboard.resources
+D:\Version\Labib\ShopManagment\ShopManagment\ShopManagment\ShopManagment\obj\Debug\ShopManagment.FormEmployeeInformation.resources
+D:\Version\Labib\ShopManagment\ShopManagment\ShopManagment\ShopManagment\obj\Debug\ShopManagment.FormLogin.resources
+D:\Version\Labib\ShopManagment\ShopManagment\ShopManagment\ShopManagment\obj\Debug\ShopManagment.FormPaymentProcess.resources
+D:\Version\Labib\ShopManagment\ShopManagment\ShopManagment\ShopManagment\obj\Debug\ShopManagment.FormProductCart.resources
+D:\Version\Labib\ShopManagment\ShopManagment\ShopManagment\ShopManagment\obj\Debug\ShopManagment.FormProductManagment.resources
+D:\Version\Labib\ShopManagment\ShopManagment\ShopManagment\ShopManagment\obj\Debug\ShopManagment.Properties.Resources.resources
+D:\Version\Labib\ShopManagment\ShopManagment\ShopManagment\ShopManagment\obj\Debug\ShopManagment.FormSalesReport.resources
+D:\Version\Labib\ShopManagment\ShopManagment\ShopManagment\ShopManagment\obj\Debug\ShopManagment.csproj.GenerateResource.cache
+D:\Version\Labib\ShopManagment\ShopManagment\ShopManagment\ShopManagment\obj\Debug\ShopManagment.csproj.CoreCompileInputs.cache
+D:\Version\Labib\ShopManagment\ShopManagment\ShopManagment\ShopManagment\obj\Debug\ShopManagment.exe
+D:\Version\Labib\ShopManagment\ShopManagment\ShopManagment\ShopManagment\obj\Debug\ShopManagment.pdb
+C:\Users\Labib\Downloads\ShopManagment\ShopManagment\ShopManagment\obj\Debug\ShopManagment.FormAdminDashboard.resources
+C:\Users\Labib\Downloads\ShopManagment\ShopManagment\ShopManagment\obj\Debug\ShopManagment.FormProductManagment.resources
+C:\Users\Labib\Downloads\ShopManagment\ShopManagment\ShopManagment\obj\Debug\ShopManagment.FormSalesReport.resources
+D:\Aiub\ShopManagment\ShopManagment\ShopManagment\bin\Debug\ShopManagment.exe.config
+D:\Aiub\ShopManagment\ShopManagment\ShopManagment\bin\Debug\ShopManagment.exe
+D:\Aiub\ShopManagment\ShopManagment\ShopManagment\bin\Debug\ShopManagment.pdb
+D:\Aiub\ShopManagment\ShopManagment\ShopManagment\obj\Debug\ShopManagment.csproj.AssemblyReference.cache
+D:\Aiub\ShopManagment\ShopManagment\ShopManagment\obj\Debug\ShopManagment.FormAdminDashboard.resources
+D:\Aiub\ShopManagment\ShopManagment\ShopManagment\obj\Debug\ShopManagment.FormEmployeeDashboard.resources
+D:\Aiub\ShopManagment\ShopManagment\ShopManagment\obj\Debug\ShopManagment.FormEmployeeInformation.resources
+D:\Aiub\ShopManagment\ShopManagment\ShopManagment\obj\Debug\ShopManagment.FormLogin.resources
+D:\Aiub\ShopManagment\ShopManagment\ShopManagment\obj\Debug\ShopManagment.FormPaymentProcess.resources
+D:\Aiub\ShopManagment\ShopManagment\ShopManagment\obj\Debug\ShopManagment.FormProductCart.resources
+D:\Aiub\ShopManagment\ShopManagment\ShopManagment\obj\Debug\ShopManagment.FormProductManagment.resources
+D:\Aiub\ShopManagment\ShopManagment\ShopManagment\obj\Debug\ShopManagment.Properties.Resources.resources
+D:\Aiub\ShopManagment\ShopManagment\ShopManagment\obj\Debug\ShopManagment.FormSalesReport.resources
+D:\Aiub\ShopManagment\ShopManagment\ShopManagment\obj\Debug\ShopManagment.csproj.GenerateResource.cache
+D:\Aiub\ShopManagment\ShopManagment\ShopManagment\obj\Debug\ShopManagment.csproj.CoreCompileInputs.cache
+D:\Aiub\ShopManagment\ShopManagment\ShopManagment\obj\Debug\ShopManagment.exe
+D:\Aiub\ShopManagment\ShopManagment\ShopManagment\obj\Debug\ShopManagment.pdb
+D:\Version\Labib2\ShopManagment\ShopManagment\ShopManagment\ShopManagment\bin\Debug\ShopManagment.exe.config
+D:\Version\Labib2\ShopManagment\ShopManagment\ShopManagment\ShopManagment\bin\Debug\ShopManagment.exe
+D:\Version\Labib2\ShopManagment\ShopManagment\ShopManagment\ShopManagment\bin\Debug\ShopManagment.pdb
+D:\Version\Labib2\ShopManagment\ShopManagment\ShopManagment\ShopManagment\obj\Debug\ShopManagment.csproj.AssemblyReference.cache
+D:\Version\Labib2\ShopManagment\ShopManagment\ShopManagment\ShopManagment\obj\Debug\ShopManagment.FormAdminDashboard.resources
+D:\Version\Labib2\ShopManagment\ShopManagment\ShopManagment\ShopManagment\obj\Debug\ShopManagment.FormEmployeeDashboard.resources
+D:\Version\Labib2\ShopManagment\ShopManagment\ShopManagment\ShopManagment\obj\Debug\ShopManagment.FormEmployeeInformation.resources
+D:\Version\Labib2\ShopManagment\ShopManagment\ShopManagment\ShopManagment\obj\Debug\ShopManagment.FormLogin.resources
+D:\Version\Labib2\ShopManagment\ShopManagment\ShopManagment\ShopManagment\obj\Debug\ShopManagment.FormPaymentProcess.resources
+D:\Version\Labib2\ShopManagment\ShopManagment\ShopManagment\ShopManagment\obj\Debug\ShopManagment.FormProductCart.resources
+D:\Version\Labib2\ShopManagment\ShopManagment\ShopManagment\ShopManagment\obj\Debug\ShopManagment.FormProductManagment.resources
+D:\Version\Labib2\ShopManagment\ShopManagment\ShopManagment\ShopManagment\obj\Debug\ShopManagment.Properties.Resources.resources
+D:\Version\Labib2\ShopManagment\ShopManagment\ShopManagment\ShopManagment\obj\Debug\ShopManagment.FormSalesReport.resources
+D:\Version\Labib2\ShopManagment\ShopManagment\ShopManagment\ShopManagment\obj\Debug\ShopManagment.csproj.GenerateResource.cache
+D:\Version\Labib2\ShopManagment\ShopManagment\ShopManagment\ShopManagment\obj\Debug\ShopManagment.csproj.CoreCompileInputs.cache
+D:\Version\Labib2\ShopManagment\ShopManagment\ShopManagment\ShopManagment\obj\Debug\ShopManagment.exe
+D:\Version\Labib2\ShopManagment\ShopManagment\ShopManagment\ShopManagment\obj\Debug\ShopManagment.pdb
+C:\Users\Labib\Desktop\ShopManagment\ShopManagment\ShopManagment\ShopManagment\bin\Debug\ShopManagment.exe.config
+C:\Users\Labib\Desktop\ShopManagment\ShopManagment\ShopManagment\ShopManagment\bin\Debug\ShopManagment.exe
+C:\Users\Labib\Desktop\ShopManagment\ShopManagment\ShopManagment\ShopManagment\bin\Debug\ShopManagment.pdb
+C:\Users\Labib\Desktop\ShopManagment\ShopManagment\ShopManagment\ShopManagment\obj\Debug\ShopManagment.csproj.AssemblyReference.cache
+C:\Users\Labib\Desktop\ShopManagment\ShopManagment\ShopManagment\ShopManagment\obj\Debug\ShopManagment.FormAdminDashboard.resources
+C:\Users\Labib\Desktop\ShopManagment\ShopManagment\ShopManagment\ShopManagment\obj\Debug\ShopManagment.FormEmployeeDashboard.resources
+C:\Users\Labib\Desktop\ShopManagment\ShopManagment\ShopManagment\ShopManagment\obj\Debug\ShopManagment.FormEmployeeInformation.resources
+C:\Users\Labib\Desktop\ShopManagment\ShopManagment\ShopManagment\ShopManagment\obj\Debug\ShopManagment.FormLogin.resources
+C:\Users\Labib\Desktop\ShopManagment\ShopManagment\ShopManagment\ShopManagment\obj\Debug\ShopManagment.FormPaymentProcess.resources
+C:\Users\Labib\Desktop\ShopManagment\ShopManagment\ShopManagment\ShopManagment\obj\Debug\ShopManagment.FormProductCart.resources
+C:\Users\Labib\Desktop\ShopManagment\ShopManagment\ShopManagment\ShopManagment\obj\Debug\ShopManagment.FormProductManagment.resources
+C:\Users\Labib\Desktop\ShopManagment\ShopManagment\ShopManagment\ShopManagment\obj\Debug\ShopManagment.Properties.Resources.resources
+C:\Users\Labib\Desktop\ShopManagment\ShopManagment\ShopManagment\ShopManagment\obj\Debug\ShopManagment.FormSalesReport.resources
+C:\Users\Labib\Desktop\ShopManagment\ShopManagment\ShopManagment\ShopManagment\obj\Debug\ShopManagment.csproj.GenerateResource.cache
+C:\Users\Labib\Desktop\ShopManagment\ShopManagment\ShopManagment\ShopManagment\obj\Debug\ShopManagment.csproj.CoreCompileInputs.cache
+C:\Users\Labib\Desktop\ShopManagment\ShopManagment\ShopManagment\ShopManagment\obj\Debug\ShopManagment.exe
+C:\Users\Labib\Desktop\ShopManagment\ShopManagment\ShopManagment\ShopManagment\obj\Debug\ShopManagment.pdb
+D:\AIUB\7th semester\C#\Project\ShopManagment\ShopManagment\ShopManagment\ShopManagment\obj\Debug\ShopManagment.csproj.AssemblyReference.cache
+D:\AIUB\7th semester\C#\Project\ShopManagment\ShopManagment\ShopManagment\ShopManagment\obj\Debug\ShopManagment.FormAdminDashboard.resources
+D:\AIUB\7th semester\C#\Project\ShopManagment\ShopManagment\ShopManagment\ShopManagment\obj\Debug\ShopManagment.FormEmployeeDashboard.resources
+D:\AIUB\7th semester\C#\Project\ShopManagment\ShopManagment\ShopManagment\ShopManagment\obj\Debug\ShopManagment.FormEmployeeInformation.resources
+D:\AIUB\7th semester\C#\Project\ShopManagment\ShopManagment\ShopManagment\ShopManagment\obj\Debug\ShopManagment.FormLogin.resources
+D:\AIUB\7th semester\C#\Project\ShopManagment\ShopManagment\ShopManagment\ShopManagment\obj\Debug\ShopManagment.FormPaymentProcess.resources
+D:\AIUB\7th semester\C#\Project\ShopManagment\ShopManagment\ShopManagment\ShopManagment\obj\Debug\ShopManagment.FormProductCart.resources
+D:\AIUB\7th semester\C#\Project\ShopManagment\ShopManagment\ShopManagment\ShopManagment\obj\Debug\ShopManagment.FormProductManagment.resources
+D:\AIUB\7th semester\C#\Project\ShopManagment\ShopManagment\ShopManagment\ShopManagment\obj\Debug\ShopManagment.Properties.Resources.resources
+D:\AIUB\7th semester\C#\Project\ShopManagment\ShopManagment\ShopManagment\ShopManagment\obj\Debug\ShopManagment.FormSalesReport.resources
+D:\AIUB\7th semester\C#\Project\ShopManagment\ShopManagment\ShopManagment\ShopManagment\obj\Debug\ShopManagment.csproj.GenerateResource.cache
+D:\AIUB\7th semester\C#\Project\ShopManagment\ShopManagment\ShopManagment\ShopManagment\obj\Debug\ShopManagment.csproj.CoreCompileInputs.cache
+D:\AIUB\7th semester\C#\Project\ShopManagment\ShopManagment\ShopManagment\ShopManagment\obj\Debug\ShopManagment.exe
+D:\AIUB\7th semester\C#\Project\ShopManagment\ShopManagment\ShopManagment\ShopManagment\obj\Debug\ShopManagment.pdb
+D:\AIUB\7th semester\C#\Project\ShopManagment\ShopManagment\ShopManagment\ShopManagment\bin\Debug\ShopManagment.exe.config
+D:\AIUB\7th semester\C#\Project\ShopManagment\ShopManagment\ShopManagment\ShopManagment\bin\Debug\ShopManagment.exe
+D:\AIUB\7th semester\C#\Project\ShopManagment\ShopManagment\ShopManagment\ShopManagment\bin\Debug\ShopManagment.pdb
+D:\AIUB\7th semester\C#\Project\ShopManagment\ShopManagment\ShopManagment\ShopManagment\obj\Debug\ShopManagment.exe.config
